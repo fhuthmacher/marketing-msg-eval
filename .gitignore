@@ -1,5 +1,5 @@
-.env
-.jsonl
+*.env
+*.jsonl
 promptflow.ipynb
 
 # Byte-compiled / optimized / DLL files
