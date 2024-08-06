@@ -1,0 +1,11 @@
+boto3
+botocore
+langchain
+transformers
+ipywidgets
+langchain-community
+anthropic
+pillow>=9.5,<10
+pandas
+python-dotenv
+s3fs
